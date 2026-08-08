@@ -1,3 +1,0 @@
-std_msgs/Header header
-builtin_interfaces/Time game_start_time
-bool game_running
